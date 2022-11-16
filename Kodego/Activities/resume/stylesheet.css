@@ -1,0 +1,52 @@
+html{
+    margin: 0px 400px 0px 400px;
+    font-size: 15px;
+    
+}
+
+header img{
+    height: 200px;
+    float: right;
+}
+
+header{
+    background-color: #110030;
+    padding: 25px;
+    color: white;
+    line-height: 10px;
+}
+
+.Name{
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.summary{
+    text-align: left;
+    line-height: 25px;
+    width: 700px;
+    padding-top: 10px;
+    
+}
+
+.work, .education{
+    border-top: 3px solid black;
+}
+
+.work-intro img, .Edu-intro img{
+    float: left;
+    padding-right: 20px;
+}
+
+.work-intro, .Edu-intro{
+    padding-top: 50px;
+}
+
+.icon{
+    height: 50px;
+}
+
+ul{
+    line-height: 30px;
+}
+
